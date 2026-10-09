@@ -1,0 +1,129 @@
+
+body{
+
+   background-color: aliceblue;
+}
+
+
+.header{
+    background-color: rgb(79, 79, 158);
+    text-align: center;
+    margin:auto ;
+    padding: 2%;
+    border-radius: 20px;
+   
+
+    
+
+}
+.header a{
+    background-color: rgb(174, 167, 167);
+    border-radius: 20%;
+}
+.about{
+    background-color: rgb(244, 244, 252);
+    margin:auto;
+   
+    border-radius: 20px;
+    
+}
+button{
+    
+     background-color: rgb(29, 29, 79);
+     color: #f9f9f9;
+}
+
+
+.about h2{
+    text-align: left;
+}
+
+
+ .about-contant img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    float:left;
+ }
+ .about-contant p{
+    margin-top: 0%;
+    
+ }
+ .clear{
+    clear: both;
+ }
+ 
+
+  .skills{
+    padding: 20px;
+  }
+
+ .skills-contant{
+    text-align: center;
+    margin-right: 10px;
+    width: 30%;
+   
+    border-radius: 10%;
+    border: solid gray 5px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.skills h1{
+
+    color: rgb(76, 76, 129);
+}
+
+
+
+
+.experience img{
+    width:100px ;
+   
+    margin-top: 50px;
+    display: flex;
+   float: left;
+}
+.experience{
+
+
+    background-color: rgb(57, 61, 103);
+    padding: 20px;
+}
+.experience content{
+    float: left;
+    display: flex;
+    
+}
+
+.experience-item{
+
+    
+    padding: 15px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+
+
+.clear {
+    clear: both;
+}
+
+
+
+.contact a{
+    background-color: rgb(174, 167, 167);
+    border-radius: 10%;
+}
+.contact{
+    background-color: rgb(91, 91, 135);
+    padding: 10px;
+}
+.footer{
+    text-align: center;
+    background-color: #77748a;
+     color: white;
+
+}
